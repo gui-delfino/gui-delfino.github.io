@@ -22,8 +22,8 @@ Lecture #1
 ======
 Group & Representation Theory
 
-[Lecture Notes](https://guidelfino1.github.io/files/Lecture_#1.pdf)
-[Homework](https://guidelfino1.github.io/files/Homework_#1.pdf)
+[Lecture Notes](https://guidelfino1.github.io/files/Lecture%20%231.pdf)
+[Homework](https://guidelfino1.github.io/files/Homework%20%231.pdf)
 
 Lecture #2
 ======
