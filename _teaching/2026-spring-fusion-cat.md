@@ -18,7 +18,7 @@ Tentative Syllabus
 * Drinfeld Center, SymTFTs
 
 
-Lecture #1: Group & Representation Theory
+Lecture #1: Group and Representation Theory
 ======
 
 [Lecture Notes](https://guidelfino1.github.io/files/Lecture%20%231.pdf)
@@ -27,5 +27,7 @@ Lecture #1: Group & Representation Theory
 
 Lecture #2: Fusion Rings and Noninvertible Symmetries
 ======
+
+To be added
 
 
