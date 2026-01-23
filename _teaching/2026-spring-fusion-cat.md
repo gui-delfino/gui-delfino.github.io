@@ -2,7 +2,7 @@
 title: "Fusion Categories and SymTFT"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2026-spring-fusion-cat
 venue: "State University of Londrina, Physics Department"
 date: Spring, 2026
 location: "Londrina, Brazil"
