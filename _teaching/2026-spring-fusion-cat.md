@@ -25,7 +25,7 @@ Lecture #1: Group & Representation Theory
 
 [Homework](https://guidelfino1.github.io/files/Homework%20%231.pdf)
 
-Lecture #2
+Lecture #2: Fusion Rings and Noninvertible Symmetries
 ======
-Fusion Rings and Noninvertible Symmetries
+
 
