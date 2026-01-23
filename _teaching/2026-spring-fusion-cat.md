@@ -18,9 +18,8 @@ Tentative Syllabus
 * Drinfeld Center, SymTFTs
 
 
-Lecture #1
+Lecture #1: Group & Representation Theory
 ======
-Group & Representation Theory
 
 [Lecture Notes](https://guidelfino1.github.io/files/Lecture%20%231.pdf)
 
