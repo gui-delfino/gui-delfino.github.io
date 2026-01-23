@@ -23,7 +23,7 @@ repository               : "gui-delfino/gui-delfino.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "vermont.jpeg"
   name             : "Gui Delfino"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
