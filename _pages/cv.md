@@ -38,4 +38,4 @@ Teaching
   
 Academic Services
 ======
-* Referee for SciPost, Physical Reviews, and JHEP
+* Referee for SciPost, Physical Review, and JHEP

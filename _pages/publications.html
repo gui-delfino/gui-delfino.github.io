@@ -6,7 +6,12 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">
+    You can also find my papers on my
+    <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>,
+    <a href="https://arxiv.org/a/delfino_g_1.html">ArXiv page</a>, or
+    <a href="https://inspirehep.net/authors/2636702">INSPIRE page</a>.
+  </div>
 {% endif %}
 
 {% include base_path %}
