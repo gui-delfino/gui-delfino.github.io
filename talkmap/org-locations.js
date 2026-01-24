@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "U(1) Enriched Topological Order<br />Oslo Univeristy; Oslo, Norway",
+    59.9133301,
+    10.7389701
   ],
   [
     "Fractonic Behavior in Two Dimensions<br />Northeastern University; Boston, MA, USA",
@@ -15,8 +15,8 @@ var addressPoints = [
     5.1215634
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Modulated Gauge Theories and Fracton Behavior in 2D<br />Harvard University; Cambridge, MA, USA",
+    42.3656347,
+    -71.1040018
   ]
 ];
