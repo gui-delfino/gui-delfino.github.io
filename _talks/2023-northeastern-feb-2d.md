@@ -3,7 +3,7 @@ title: "Fractonic Behavior in Two Dimensions"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-northeastern-feb-2d
-venue: "Testing Institute of America 2014 Annual Conference"
+venue: "Northeastern University"
 date: 2023-02-01
 location: "Boston, MA, USA"
 ---
