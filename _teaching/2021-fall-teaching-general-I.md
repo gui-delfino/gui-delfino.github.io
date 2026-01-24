@@ -8,7 +8,7 @@ date: 2021-01-01
 location: "Boston, USA"
 ---
 
-This is calculus-based introduction to basic principles of physics, emphasizing Newtonian mechanics, conservation laws, and thermodynamics. Check out the [course website](https://www.bu.edu/academics/cas/courses/cas-py-211/) for further details.
+This is a calculus-based introduction to basic principles of physics, emphasizing Newtonian mechanics, conservation laws, and thermodynamics. Check out the [course website](https://www.bu.edu/academics/cas/courses/cas-py-211/) for further details.
 
 I'm a discussion teaching assistant, together with Prof. [Manher Jariwala](https://www.bu.edu/physics/profile/manher-jariwala/)
 
