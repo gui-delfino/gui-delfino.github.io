@@ -8,4 +8,4 @@ date: 2023-02-01
 location: "Boston, MA, USA"
 ---
 
-See slides for this talk [here](gui-delfino.github.io/files/Fractonic2D.pdf), and an YouTube recording [here](https://www.youtube.com/watch?v=7-d4Cx4PgvE)
+See slides for this talk [here](https://gui-delfino.github.io/files/Fractonic2D.pdf), and an YouTube recording [here](https://www.youtube.com/watch?v=7-d4Cx4PgvE)
