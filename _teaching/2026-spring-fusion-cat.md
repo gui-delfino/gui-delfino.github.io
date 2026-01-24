@@ -8,7 +8,7 @@ date: 2026-01-01
 location: "Londrina, Brazil"
 ---
 
-This corresponds to a set of lectures that covers provides minimal working tools to understand and deal with generalized symmetries from a categorical perspective. We intend to cover (but not limited to) topological phases of matter in (2+1)D, topological quantum field theories, generalized symmetries in (1+1)D and lattice models. 
+This corresponds to a set of lectures that  provides minimal working tools to understand and deal with generalized symmetries from a categorical perspective. We intend to cover (but not limited to) topological phases of matter in (2+1)D, topological quantum field theories, generalized symmetries in (1+1)D and concrete realizations in lattice models. 
 
 Tentative Syllabus
 ======
