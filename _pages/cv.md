@@ -16,7 +16,7 @@ Education
 ======
 * Ph.D in Physics, Purdue University, 2027 (expected)
 * M.A. in Physics, Boston University, 2025
-* B.S. with honors & M.S. in Physics, 2019
+* B.S. with honors & M.S. in Physics, State University of Londrina, 2019
 
 Publications
 ======
