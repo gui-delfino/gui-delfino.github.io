@@ -8,6 +8,4 @@ date: 2023-05-01
 location: "Oslo,Norway"
 ---
 
-Seminar cycle @QCOMBINE
-
-See slides for this talk [here](https://gui-delfino.github.io/files/U(1)QSL.pdf).
+Seminar cycle @QCOMBINE. See slides for this talk [here](https://gui-delfino.github.io/files/U(1)QSL.pdf).
