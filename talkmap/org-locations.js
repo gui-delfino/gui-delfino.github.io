@@ -10,7 +10,7 @@ var addressPoints = [
     -71.0578303
   ],
   [
-    "A tutorial on Fractons<br />University of Utrecht; Utrecht, Netherlands",
+    "A Tutorial on Fractons<br />University of Utrecht; Utrecht, Netherlands",
     52.0907006,
     5.1215634
   ],
