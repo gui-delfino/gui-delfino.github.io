@@ -10,13 +10,13 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
     "A tutorial on Fractons<br />University of Utrecht, Department of Physics; Utrecht, Netherlands",
     52.0907006,
     5.1215634
+  ],
+  [
+    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
+    37.8708393,
+    -122.272863
   ]
 ];
