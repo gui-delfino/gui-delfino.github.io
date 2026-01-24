@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Boston, USA"
 ---
 
-This course is a calculus-based introduction to basic principles of physics, emphasizing electromagnetism, circuits, and optics.
+This course is a calculus-based introduction to basic principles of physics, emphasizing electromagnetism, circuits, and optics. Check out the [course website](https://www.bu.edu/academics/cas/courses/cas-py-212/) for further details.
 
 I'm a discussion teaching assistant, together with Prof. [Manher Jariwala](https://www.bu.edu/physics/profile/manher-jariwala/)
 
