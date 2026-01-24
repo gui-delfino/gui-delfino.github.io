@@ -10,5 +10,5 @@ location: "Boston, USA"
 
 This course introduces students to special relativity, quantum mechanics, classical and quantum statistics, emphasizing scientific inquiry and critical thinking. Labs are a required course component. Check out the [course website](https://www.bu.edu/academics/cas/courses/cas-py-351/) for further details.
 
-I'm a discussion teaching assitant, together with Prof. [Ed Kearns](https://www.bu.edu/physics/profile/ed-kearns/)
+I'm a discussion teaching assistant, together with Prof. [Ed Kearns](https://www.bu.edu/physics/profile/ed-kearns/)
 
