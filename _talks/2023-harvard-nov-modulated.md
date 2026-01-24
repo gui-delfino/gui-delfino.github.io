@@ -8,6 +8,4 @@ date: 2023-11-01
 location: "Cambridge, MA, USA"
 ---
 
-Seminar at [CMSA](https://cmsa.fas.harvard.edu/series/mathematical-physics-and-algebraic-geometry-seminar/) seminar cycle
-
-See slides for this talk [here](https://gui-delfino.github.io/files/Delfino_2dfracton.pdf) and YouTube recording [here](https://www.youtube.com/watch?v=D8MTPl8rTVE)
+Seminar at [CMSA](https://cmsa.fas.harvard.edu/series/mathematical-physics-and-algebraic-geometry-seminar/) seminar cycle. See slides for this talk [here](https://gui-delfino.github.io/files/Delfino_2dfracton.pdf) and YouTube recording [here](https://www.youtube.com/watch?v=D8MTPl8rTVE)
