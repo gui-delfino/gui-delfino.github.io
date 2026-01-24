@@ -21,9 +21,9 @@ Tentative Syllabus
 Lecture #1: Group and Representation Theory
 ======
 
-[Lecture Notes](https://guidelfino1.github.io/files/Lecture%20%231.pdf)
+[Lecture Notes](https://guidelfino1.github.io/files/Lecture_1.pdf)
 
-[Homework](https://guidelfino1.github.io/files/Homework%20%231.pdf)
+[Homework](https://guidelfino1.github.io/files/Homework_1.pdf)
 
 Lecture #2: Fusion Rings and Noninvertible Symmetries
 ======
