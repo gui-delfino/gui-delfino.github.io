@@ -10,7 +10,7 @@ redirect_from:
 Under construction...
 
 
-I'm Gui (short for Guilherme and pronounced as "gui" in "guitar"). I am 5th-year PhD candidate in the Department of Physics at Purdue University. My research is focused on strongly correlated systems and Quantum Field Theory.
+I'm Gui (short for Guilherme and pronounced as "gui" in "guitar"). I am 5th-year PhD candidate in the Department of Physics at Purdue University working in condensed matter theory. My research is focused on strongly correlated systems and quantum field theories.
 
 
 
@@ -19,3 +19,9 @@ On this site, you will find my [Publications](https://gui-delfino.github.io/publ
 
 Research Interests
 ======
+Among other topics, I'm highly interested in
+* Modulated symmetries
+* Engineering topological order in mesoscopic systems
+* Effective field theories for microscopic systems
+* Potential applications of AI in physics
+
