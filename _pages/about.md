@@ -14,7 +14,7 @@ I'm Gui (short for Guilherme and pronounced as "gui" in "guitar"). I am 5th-year
 
 
 
-On this site, you will find my [Publications](https://gui-delfino.github.io/publications/), [Lecture Notes](https://gui-delfino.github.io/teaching/)
+On this site, you will find my [Publications](https://gui-delfino.github.io/publications/), some [Lecture Notes](https://gui-delfino.github.io/teaching/), as well as a list of my recent [Talks](ttps://gui-delfino.github.io/talks/)
 
 
 Research Interests
