@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2026-spring-fusion-cat
 venue: "State University of Londrina, Physics Department"
-date: Spring, 2026
+date: 2026-01-01
 location: "Londrina, Brazil"
 ---
 
