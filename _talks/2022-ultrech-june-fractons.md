@@ -1,7 +1,7 @@
 ---
-title: "A tutorial on Fractons"
+title: "A Tutorial on Fractons"
 collection: talks
-type: "Talk"
+type: "Tutorial"
 permalink: /talks/2022-ultrech-june-fractons
 venue: "University of Utrecht"
 date: 2022-06-17
