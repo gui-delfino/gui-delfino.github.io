@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2023-oslo-may-u1
 venue: "Oslo Univeristy"
 date: 2023-05-01
-location: "Oslo, Norway"
+location: "Oslo,Norway"
 ---
 
 Seminar cycle @QCOMBINE
