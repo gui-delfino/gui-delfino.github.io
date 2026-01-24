@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "U(1) Enriched Topological Order<br />Oslo Univeristy; Oslo, Norway",
+    "U(1) Enriched Topological Order<br />Oslo Univeristy; Oslo,Norway",
     59.9133301,
     10.7389701
   ],
