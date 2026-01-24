@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "PY 351 Modern Physics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate"
+permalink: /teaching/2024-fall-teaching-modern
+venue: "Boston University, Physics Department"
+date: 2024-01-01
+location: "Boston, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course introduces students to special relativity, quantum mechanics, classical and quantum statistics, emphasizing scientific inquiry and critical thinking. Labs are a required course component. Check out the [course website](https://www.bu.edu/academics/cas/courses/cas-py-351/) for further details.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
