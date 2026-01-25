@@ -8,7 +8,10 @@ redirect_from:
 ---
 
 
-I'm Gui (short for Guilherme and pronounced as "gui" in "guitar"). I am 5th-year PhD candidate in the Department of Physics at Purdue University working in condensed matter theory. My research is focused on strongly correlated systems and quantum field theories.
+Welcome! I'm Gui (short for Guilherme and pronounced as "gui" in "guitar"). 
+
+
+I am 5th-year PhD candidate in the Department of Physics at Purdue University working in condensed matter theory. My research is focused on strongly correlated systems and quantum field theories.
 
 
 
