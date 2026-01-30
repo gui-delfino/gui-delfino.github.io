@@ -25,9 +25,15 @@ Lecture #1: Group and Representation Theory
 
 [Homework](https://gui-delfino.github.io/files/Homework_1.pdf)
 
-Lecture #2: Fusion Rings and Noninvertible Symmetries
+Lecture #2: Fusion Rings and Categories
 ======
 
-To be added
+
+[Lecture Notes](https://gui-delfino.github.io/files/Lecture_2.pdf)
+
+[Homework](https://gui-delfino.github.io/files/Homework_2.pdf)
+
+[Recording](https://purdue-edu.zoom.us/rec/share/Eh9CfvT7oEfRm8Tq7NDUhMU9OQgbg5CGFvXRp6u33lTmeblAx6iUqFn2xsiRgnk.aWlE4S3ifKRTGXrR?startTime=1769795140000) (in Portuguese) with passcode: 3KJ&6n3!
+
 
 
