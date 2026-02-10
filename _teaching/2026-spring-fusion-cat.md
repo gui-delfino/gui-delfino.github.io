@@ -36,4 +36,14 @@ Lecture #2: Fusion Rings and Categories
 [Recording](https://purdue-edu.zoom.us/rec/share/Eh9CfvT7oEfRm8Tq7NDUhMU9OQgbg5CGFvXRp6u33lTmeblAx6iUqFn2xsiRgnk.aWlE4S3ifKRTGXrR?startTime=1769795140000) (in Portuguese) with passcode: 3KJ&6n3!
 
 
+Lecture #3: Fusion Rings and Fusion Categories
+======
+
+
+[Lecture Notes](https://gui-delfino.github.io/files/Lecture_3.pdf)
+
+[Homework](https://gui-delfino.github.io/files/Homework_3.pdf)
+
+[Recording](https://purdue-edu.zoom.us/rec/share/jqyW4pOL6E3raI1P3cCnkzz2gJevlUovKSq_vZeDjSR2iVIUO4uWuPnm3mnS9WYY.FtyxWKjw2t02yiNS ) (in Portuguese) with passcode: JJF2B*gV
+
 
