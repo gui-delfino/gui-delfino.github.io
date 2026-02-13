@@ -47,3 +47,13 @@ Lecture #3: Fusion Rings and Fusion Categories
 [Recording](https://purdue-edu.zoom.us/rec/share/jqyW4pOL6E3raI1P3cCnkzz2gJevlUovKSq_vZeDjSR2iVIUO4uWuPnm3mnS9WYY.FtyxWKjw2t02yiNS ) (in Portuguese) with passcode: JJF2B*gV
 
 
+
+Lecture #4: Fusion Categories and F-symbols
+======
+
+
+[Lecture Notes](https://gui-delfino.github.io/files/Lecture_4.pdf)
+
+[Homework](https://gui-delfino.github.io/files/Homework_4.pdf)
+
+[Recording](https://purdue-edu.zoom.us/rec/share/0rVVbFyTtW7jUq38J-VBCMYxnt-uhCwpkiVJ-h9s9g3I9DP6fs8WG8iKrmHjQBEa.tJwUY83HVScFiIA1) (in Portuguese) with passcode: %iP^fx01
