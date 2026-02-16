@@ -21,8 +21,10 @@ On this website you can find my [publications](https://gui-delfino.github.io/pub
 Research Interests
 ======
 Among other topics, I'm highly interested in
-* Modulated symmetries
+* Modulated symmetries, and how they can give rise to rich structures in higher dimensions
 * Engineering topological order in mesoscopic systems
-* Effective field theories for microscopic systems
-* Potential applications of AI in physics
+* Effective field theories for microscopic systems and the matching of symmetries between lattice and continuum descriptions
+* The role of non-invertible symmetries in uncovering and organizing new physical phenomena
+
+
 
