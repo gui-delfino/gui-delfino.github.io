@@ -18,6 +18,7 @@ author_profile: true
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
+  {% assign total_count = site.publications | size %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -28,11 +29,14 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
+      {% assign post_number = total_count | minus: forloop.index0 %}
       {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
 {% else %}
+  {% assign total_count = site.publications | size %}
   {% for post in site.publications reversed %}
+    {% assign post_number = total_count | minus: forloop.index0 %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
