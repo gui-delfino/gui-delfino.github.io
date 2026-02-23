@@ -57,3 +57,14 @@ Lecture #4: Fusion Categories and F-symbols
 [Homework](https://gui-delfino.github.io/files/Homework_4.pdf)
 
 [Recording](https://purdue-edu.zoom.us/rec/share/0rVVbFyTtW7jUq38J-VBCMYxnt-uhCwpkiVJ-h9s9g3I9DP6fs8WG8iKrmHjQBEa.tJwUY83HVScFiIA1) (in Portuguese) with passcode: %iP^fx01
+
+
+Lecture #5: Fusion Categories and Gauge transformations
+======
+
+
+[Lecture Notes](https://gui-delfino.github.io/files/Lecture_5.pdf)
+
+[Homework](https://gui-delfino.github.io/files/Homework_5.pdf)
+
+[Recording](https://purdue-edu.zoom.us/rec/share/tcbGBFqA2QexEMK8vhR3hC9W2P1lmu_SeVhTjpLhZTzTGdmOxQLN8C7zss0A_579.uyBT_sGVUIueRCf) (in Portuguese) with passcode: Ad4?JnYf
