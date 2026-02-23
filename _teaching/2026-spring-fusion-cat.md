@@ -67,4 +67,4 @@ Lecture #5: Fusion Categories and Gauge transformations
 
 [Homework](https://gui-delfino.github.io/files/Homework_5.pdf)
 
-[Recording](https://purdue-edu.zoom.us/rec/share/tcbGBFqA2QexEMK8vhR3hC9W2P1lmu_SeVhTjpLhZTzTGdmOxQLN8C7zss0A_579.uyBT_sGVUIueRCf) (in Portuguese) with passcode: Ad4?JnYf
+[Recording](https://purdue-edu.zoom.us/rec/share/tcbGBFqA2QexEMK8vhR3hC9W2P1lmu_SeVhTjpLhZTzTGdmOxQLN8C7zss0A_579.uyBT_sGVUIueRCf-) (in Portuguese) with passcode: Ad4?JnYf
