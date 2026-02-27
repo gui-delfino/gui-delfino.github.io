@@ -38,4 +38,4 @@ Teaching
   
 Peer Review
 ======
-* Referee for SciPost, Physical Review, and JHEP
+* Referee for SciPost Physics; Physical Review B; Physical Review Letters; Physical Review Research; Physical Review X; Journal of High Energy Physics (JHEP).
