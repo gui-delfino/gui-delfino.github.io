@@ -68,3 +68,14 @@ Lecture #5: Fusion Categories and Gauge transformations
 [Homework](https://gui-delfino.github.io/files/Homework_5.pdf)
 
 [Recording](https://purdue-edu.zoom.us/rec/share/tcbGBFqA2QexEMK8vhR3hC9W2P1lmu_SeVhTjpLhZTzTGdmOxQLN8C7zss0A_579.uyBT_sGVUIueRCf-) (in Portuguese) with passcode: Ad4?JnYf
+
+
+Lecture #5: Non-invertible symmetries in 1+1d Ising and Anyonic chains
+======
+
+
+[Lecture Notes](https://gui-delfino.github.io/files/Lecture_6.pdf)
+
+[Homework](https://gui-delfino.github.io/files/Homework_6.pdf)
+
+[Recording](https://purdue-edu.zoom.us/rec/share/T2m5d1fiSuMoEt0BUOdtpyjoRksWHZLFcsv_g97LGJ8G0hv8oM9TouW5REbNa-Vi.oI67-0uoJh7rRwdw) (in Portuguese) with passcode: *5&qn7rJ
