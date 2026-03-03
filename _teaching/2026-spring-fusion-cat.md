@@ -70,7 +70,7 @@ Lecture #5: Fusion Categories and Gauge transformations
 [Recording](https://purdue-edu.zoom.us/rec/share/tcbGBFqA2QexEMK8vhR3hC9W2P1lmu_SeVhTjpLhZTzTGdmOxQLN8C7zss0A_579.uyBT_sGVUIueRCf-) (in Portuguese) with passcode: Ad4?JnYf
 
 
-Lecture #5: Non-invertible symmetries in 1+1d Ising and Anyonic chains
+Lecture #6: Non-invertible symmetries in 1+1d Ising and Anyonic chains
 ======
 
 
