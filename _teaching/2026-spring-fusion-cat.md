@@ -79,3 +79,14 @@ Lecture #6: Non-invertible symmetries in 1+1d Ising and Anyonic chains
 [Homework](https://gui-delfino.github.io/files/Homework_6.pdf)
 
 [Recording](https://purdue-edu.zoom.us/rec/share/T2m5d1fiSuMoEt0BUOdtpyjoRksWHZLFcsv_g97LGJ8G0hv8oM9TouW5REbNa-Vi.oI67-0uoJh7rRwdw) (in Portuguese) with passcode: *5&qn7rJ
+
+
+Lecture #7: Anyonic chains: Hilbert Space and Hamiltonian
+======
+
+
+[Lecture Notes](https://gui-delfino.github.io/files/Lecture_7.pdf)
+
+Homework: See Sec. 3.4 of [Shu-Heng Shao's TASI lecture notes](https://arxiv.org/pdf/2308.00747) and Sec. 1.2 of [Inamura & Ohmori (2023)](https://arxiv.org/pdf/2305.05774)
+
+[Recording](https://purdue-edu.zoom.us/rec/share/hPF7Mr2uPjhLegYdusDeK-kIgLuCVh761kKicAjmw3UC3_y8CYbBFZOK5aYwi3MT.ou-Y-2Z-GUjn4YoI) (in Portuguese) with passcode: 25VV^kE!
