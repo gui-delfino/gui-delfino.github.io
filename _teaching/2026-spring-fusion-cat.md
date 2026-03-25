@@ -90,3 +90,14 @@ Lecture #7: Anyonic chains: Hilbert Space and Hamiltonian
 Homework: See Sec. 3.4 of [Shu-Heng Shao's TASI lecture notes](https://arxiv.org/pdf/2308.00747) and Sec. 1.2 of [Inamura & Ohmori (2023)](https://arxiv.org/pdf/2305.05774)
 
 [Recording](https://purdue-edu.zoom.us/rec/share/hPF7Mr2uPjhLegYdusDeK-kIgLuCVh761kKicAjmw3UC3_y8CYbBFZOK5aYwi3MT.ou-Y-2Z-GUjn4YoI) (in Portuguese) with passcode: 25VV^kE!
+
+
+Lecture #8: Braided Fusion Categories
+======
+
+
+[Lecture Notes](https://gui-delfino.github.io/files/Lecture_8.pdf)
+
+[Homework](https://gui-delfino.github.io/files/Homework_8.pdf)
+
+[Recording](https://purdue-edu.zoom.us/rec/share/lL9BxPwVKjbXCpV40p8GuYhltsCv4Y2914CkI19OBrOHbT1a8a5CUNGVx0F-GbZ6.DImRQEfBzgDVTtz3) (in Portuguese) with passcode: U%#3TTVA
