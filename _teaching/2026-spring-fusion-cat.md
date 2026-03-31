@@ -101,3 +101,15 @@ Lecture #8: Braided Fusion Categories
 [Homework](https://gui-delfino.github.io/files/Homework_8.pdf)
 
 [Recording](https://purdue-edu.zoom.us/rec/share/lL9BxPwVKjbXCpV40p8GuYhltsCv4Y2914CkI19OBrOHbT1a8a5CUNGVx0F-GbZ6.DImRQEfBzgDVTtz3) (in Portuguese) with passcode: U%#3TTVA
+
+Lecture #9: Modular S and T Matrices
+======
+
+
+[Lecture Notes](https://gui-delfino.github.io/files/Lecture_9.pdf)
+
+Homework: See Sec. I- IV of [Xiao-Gang Wen's paper](https://arxiv.org/pdf/1506.05768).
+
+See Table I of the paper above. Can you identify any familiar phases listed there? For example, the $$\mathbb{Z}_2$$ç toric code, Fibonacci, Ising, or similar topological orders.
+
+[Recording](https://purdue-edu.zoom.us/rec/share/KulsX_bnpC6HssSt1MXl9VaF1kzW9sh1fA64-Qk9t_-1zzEQJVSHETkjy-6csae2.vZrkBd4qoO_7dPcR) (in Portuguese) with passcode: 3R?rN61?
