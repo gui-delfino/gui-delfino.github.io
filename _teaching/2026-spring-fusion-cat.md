@@ -110,6 +110,6 @@ Lecture #9: Modular S and T Matrices
 
 Homework: See Sec. I- IV of [Xiao-Gang Wen's paper](https://arxiv.org/pdf/1506.05768).
 
-See Table I of the paper above. Can you identify any familiar phases listed there? For example, the $$\mathbb{Z}_2$$ç toric code, Fibonacci, Ising, or similar topological orders.
+See Table I of the paper above. Can you identify any familiar phases listed there? For example, the $$\mathbb{Z}_2$$ toric code, Fibonacci, Ising, or similar topological orders.
 
 [Recording](https://purdue-edu.zoom.us/rec/share/KulsX_bnpC6HssSt1MXl9VaF1kzW9sh1fA64-Qk9t_-1zzEQJVSHETkjy-6csae2.vZrkBd4qoO_7dPcR) (in Portuguese) with passcode: 3R?rN61?
