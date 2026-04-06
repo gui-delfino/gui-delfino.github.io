@@ -113,3 +113,20 @@ Homework: See Sec. I- IV of [Xiao-Gang Wen's paper](https://arxiv.org/pdf/1506.0
 See Table I of the paper above. Can you identify any familiar phases listed there? For example, the $$\mathbb{Z}_2$$ toric code, Fibonacci, Ising, or similar topological orders.
 
 [Recording](https://purdue-edu.zoom.us/rec/share/KulsX_bnpC6HssSt1MXl9VaF1kzW9sh1fA64-Qk9t_-1zzEQJVSHETkjy-6csae2.vZrkBd4qoO_7dPcR) (in Portuguese) with passcode: 3R?rN61?
+
+
+Lecture #10:  Levin-Wen String-net models
+======
+
+<span style="font-size: 20px;"><u>Guest lecturer:</u> Lucas Q. Silveira (Northeastern)</span>
+<!-- ## Guest lecturer: Lucas Q. Silveira (Northeastern) -->
+
+
+Lecture notes and homework are coursety of our guest lecturer [Lucas Q. Silveira](https://arxiv.org/search/?searchtype=author&query=Silveira%2C+L+Q)
+
+[Lecture Notes](https://gui-delfino.github.io/files/Lecture_10.pdf)
+
+[Homework](https://gui-delfino.github.io/files/Homework_10.pdf)
+
+
+[Recording](https://purdue-edu.zoom.us/rec/share/oDxBRyu__jPkP_sLNMuDgb1oJGp00v_qzCiafxtWtud-fycnFYiY-z3RxbUrODZ1.ta2LCGs0aAQvD0Sm) (in Portuguese) with passcode: Q6%%CJf%
