@@ -115,14 +115,14 @@ See Table I of the paper above. Can you identify any familiar phases listed ther
 [Recording](https://purdue-edu.zoom.us/rec/share/KulsX_bnpC6HssSt1MXl9VaF1kzW9sh1fA64-Qk9t_-1zzEQJVSHETkjy-6csae2.vZrkBd4qoO_7dPcR) (in Portuguese) with passcode: 3R?rN61?
 
 
-Lecture #10:  Levin-Wen String-net models
+Lecture #10:  Levin-Wen String-net Models
 ======
 
-<span style="font-size: 20px;"><u>Guest lecturer:</u> Lucas Q. Silveira (Northeastern)</span>
+<span style="font-size: 20px;"><u>Guest lecturer</u>: Lucas Q. Silveira (Northeastern)</span>
 <!-- ## Guest lecturer: Lucas Q. Silveira (Northeastern) -->
 
 
-Lecture notes and homework are coursety of our guest lecturer [Lucas Q. Silveira](https://arxiv.org/search/?searchtype=author&query=Silveira%2C+L+Q)
+Lecture notes and homework are courtesy of our guest lecturer [Lucas Q. Silveira](https://arxiv.org/search/?searchtype=author&query=Silveira%2C+L+Q)
 
 [Lecture Notes](https://gui-delfino.github.io/files/Lecture_10.pdf)
 
