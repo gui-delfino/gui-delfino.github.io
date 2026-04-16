@@ -130,3 +130,20 @@ Lecture notes and homework are courtesy of our guest lecturer [Lucas Q. Silveira
 
 
 [Recording](https://purdue-edu.zoom.us/rec/share/oDxBRyu__jPkP_sLNMuDgb1oJGp00v_qzCiafxtWtud-fycnFYiY-z3RxbUrODZ1.ta2LCGs0aAQvD0Sm) (in Portuguese) with passcode: Q6%%CJf%
+
+
+Lecture #11:  Quantum Double Models
+======
+
+<span style="font-size: 20px;"><u>Guest lecturer</u>: Bruno O. Araújo (Universidade Estadual de Londrina)</span>
+
+
+
+Lecture notes and homework are courtesy of our guest lecturer [Bruno O. Araújo]
+
+[Lecture Notes](https://gui-delfino.github.io/files/Lecture_11.pdf)
+
+[Homework](https://gui-delfino.github.io/files/Homework_11.pdf)
+
+
+[Recording](https://purdue-edu.zoom.us/rec/share/Szr9h8wOKYPtpkBVQU-sJzoPanfEiNnBKad98_lYOmn79RZj26TWrjFnxnwBaoGa.41BeWA3vXMXtuZ32) (in Portuguese) with passcode: M!6U2X.8
