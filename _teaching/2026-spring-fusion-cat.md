@@ -147,3 +147,18 @@ Lecture notes and homework are courtesy of our guest lecturer [Bruno O. Araújo]
 
 
 [Recording](https://purdue-edu.zoom.us/rec/share/Szr9h8wOKYPtpkBVQU-sJzoPanfEiNnBKad98_lYOmn79RZj26TWrjFnxnwBaoGa.41BeWA3vXMXtuZ32) (in Portuguese) with passcode: M!6U2X.8
+
+
+Lecture #12:  Quantum Double Models and (Intro to) TQFTs
+======
+
+<span style="font-size: 20px;"><u>Guest lecturer</u>: Bruno O. Araújo (Universidade Estadual de Londrina)</span>
+
+
+
+Part 1: [Lecture Notes](https://gui-delfino.github.io/files/Lecture_12_1.pdf) on quantum doubles [courtesy of our guest lecturer [Bruno O. Araújo]]
+
+Part 2: [Lecture Notes](https://gui-delfino.github.io/files/Lecture_12_2.pdf) on TQFTs
+
+
+[Recording](https://purdue-edu.zoom.us/rec/share/BIx1jvwTTZEmNG7bOgYK3brkGYjMKSeEDHC8bZIHk_8bdeikg9vE4qkRz-1RQpDr.pYEfXiMXAjTdGH82) (in Portuguese) with passcode: 7!#8TVD#
