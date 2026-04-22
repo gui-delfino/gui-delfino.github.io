@@ -160,5 +160,7 @@ Part 1: [Lecture Notes](https://gui-delfino.github.io/files/Lecture_12_1.pdf) on
 
 Part 2: [Lecture Notes](https://gui-delfino.github.io/files/Lecture_12_2.pdf) on TQFTs
 
+[Homework](https://gui-delfino.github.io/files/Homework_12.pdf)
+
 
 [Recording](https://purdue-edu.zoom.us/rec/share/BIx1jvwTTZEmNG7bOgYK3brkGYjMKSeEDHC8bZIHk_8bdeikg9vE4qkRz-1RQpDr.pYEfXiMXAjTdGH82) (in Portuguese) with passcode: 7!#8TVD#
