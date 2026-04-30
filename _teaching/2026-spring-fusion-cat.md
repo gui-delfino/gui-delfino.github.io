@@ -164,3 +164,15 @@ Part 2: [Lecture Notes](https://gui-delfino.github.io/files/Lecture_12_2.pdf) on
 
 
 [Recording](https://purdue-edu.zoom.us/rec/share/BIx1jvwTTZEmNG7bOgYK3brkGYjMKSeEDHC8bZIHk_8bdeikg9vE4qkRz-1RQpDr.pYEfXiMXAjTdGH82) (in Portuguese) with passcode: 7!#8TVD#
+
+
+
+Lecture #13: Turaev-Viro-Barrett-Westbury TQFTs
+======
+
+
+[Lecture Notes](https://gui-delfino.github.io/files/Lecture_13.pdf)
+
+Homework: [Unit 5 Exercises](https://www.math.purdue.edu/~colleend/unit5_exercises_v2.pdf) of Colleen Delaney's course at Purdue on [Fusion Categories for Physics (Fall 2025)](https://www.math.purdue.edu/~colleend/phys570.html)
+
+[Recording](https://purdue-edu.zoom.us/rec/share/UThe0bFUtOvqctxX9lvVWzMqAIer4GvoROiz3Rx3Ov2vq3zzp3CIPs30_4182wYe.SYviUOE6Y0OGpKvH) (in Portuguese) with passcode: ?3+Blghg
