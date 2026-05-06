@@ -118,11 +118,11 @@ See Table I of the paper above. Can you identify any familiar phases listed ther
 Lecture #10:  Levin-Wen String-net Models
 ======
 
-<span style="font-size: 20px;"><u>Guest lecturer</u>: Lucas Q. Silveira (Northeastern)</span>
+<span style="font-size: 20px;"><u>Guest lecturer</u>: [Lucas Q. Silveira](https://arxiv.org/search/?searchtype=author&query=Silveira%2C+L+Q) (Northeastern)</span>
 <!-- ## Guest lecturer: Lucas Q. Silveira (Northeastern) -->
 
 
-Lecture notes and homework are courtesy of our guest lecturer [Lucas Q. Silveira](https://arxiv.org/search/?searchtype=author&query=Silveira%2C+L+Q)
+Lecture notes and homework are courtesy of our guest lecturer
 
 [Lecture Notes](https://gui-delfino.github.io/files/Lecture_10.pdf)
 
@@ -139,7 +139,7 @@ Lecture #11:  Quantum Double Models
 
 
 
-Lecture notes and homework are courtesy of our guest lecturer [Bruno O. Araújo]
+Lecture notes and homework are courtesy of our guest lecturer
 
 [Lecture Notes](https://gui-delfino.github.io/files/Lecture_11.pdf)
 
@@ -156,7 +156,7 @@ Lecture #12:  Quantum Double Models and (Intro to) TQFTs
 
 
 
-Part 1: [Lecture Notes](https://gui-delfino.github.io/files/Lecture_12_1.pdf) on quantum doubles [courtesy of our guest lecturer [Bruno O. Araújo]]
+Part 1: [Lecture Notes](https://gui-delfino.github.io/files/Lecture_12_1.pdf) on quantum doubles [courtesy of our guest lecturer]
 
 Part 2: [Lecture Notes](https://gui-delfino.github.io/files/Lecture_12_2.pdf) on TQFTs
 
@@ -176,3 +176,19 @@ Lecture #13: Turaev-Viro-Barrett-Westbury TQFTs
 Homework: [Unit 5 Exercises](https://www.math.purdue.edu/~colleend/unit5_exercises_v2.pdf) of Colleen Delaney's course at Purdue on [Fusion Categories for Physics (Fall 2025)](https://www.math.purdue.edu/~colleend/phys570.html)
 
 [Recording](https://purdue-edu.zoom.us/rec/share/UThe0bFUtOvqctxX9lvVWzMqAIer4GvoROiz3Rx3Ov2vq3zzp3CIPs30_4182wYe.SYviUOE6Y0OGpKvH) (in Portuguese) with passcode: ?3+Blghg
+
+
+Lecture #14:  K-matrix Chern Simons TQFTs
+======
+
+<span style="font-size: 20px;"><u>Guest lecturer</u>: [Rieli Tainá Gomes dos Santos](https://scholar.google.com/citations?user=AQfiKNwAAAAJ&hl=pt-BR) (Universidade Estadual de Londrina)</span>
+
+
+Lecture notes and homework are courtesy of our guest lecturer
+
+[Lecture Notes](https://gui-delfino.github.io/files/Lecture_14.pdf)
+
+[Homework](https://gui-delfino.github.io/files/Homework_14.pdf)
+
+
+[Recording](https://purdue-edu.zoom.us/rec/share/ANCPSURoyIlIkQ-hesNmYlF3t2YCmQ6HJRUZiAEcPhwq49o4e5mRZ0Y60zp0ZHik.7Jze9ptD9-zpXHu7) (in Portuguese) with passcode: &.2#n+mn
