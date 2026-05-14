@@ -200,11 +200,9 @@ Lecture #15:  Sandwich Construction of (2+1)d Toric Code
 <span style="font-size: 20px;"><u>Guest lecturer</u>: [Giovanna Pimenta](https://arxiv.org/search/cond-mat?searchtype=author&query=Pimenta,+G) (Universidade Estadual de Londrina)</span>
 
 
-Lecture notes and homework are courtesy of our guest lecturer
+Lecture notes are courtesy of our guest lecturer
 
 [Lecture Notes](https://gui-delfino.github.io/files/Lecture_15.pdf)
-
-[Homework](https://gui-delfino.github.io/files/Homework_14.pdf)
 
 
 [Recording](https://purdue-edu.zoom.us/rec/share/wz_0YKaIED2_JfXtkLQxvxr5HNnE0_MUVaYh7EAV5AmUk0IYqrpCmt40UP-olxl3.3uDST6NCGgfDR83o) (in Portuguese) with passcode: W#XJR%4J
