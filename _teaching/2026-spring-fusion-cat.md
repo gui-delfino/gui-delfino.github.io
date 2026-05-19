@@ -197,12 +197,14 @@ Lecture notes and homework are courtesy of our guest lecturer
 Lecture #15:  Sandwich Construction of (2+1)d Toric Code
 ======
 
-<span style="font-size: 20px;"><u>Guest lecturer</u>: [Giovanna Pimenta](https://arxiv.org/search/cond-mat?searchtype=author&query=Pimenta,+G) (Universidade Estadual de Londrina)</span>
+<span style="font-size: 20px;"><u>Guest lecturer</u>: [Giovanna Pimenta](https://arxiv.org/search/cond-mat?searchtype=author&query=Pimenta,+G) (Universidade Estadual de Londrina / Southern Denmark University)</span>
 
 
 Lecture notes are courtesy of our guest lecturer
 
-[Lecture Notes](https://gui-delfino.github.io/files/Lecture_15.pdf)
+[Lecture Notes](https://gui-delfino.github.io/files/Lecture_15v2.pdf)
 
 
-[Recording](https://purdue-edu.zoom.us/rec/share/wz_0YKaIED2_JfXtkLQxvxr5HNnE0_MUVaYh7EAV5AmUk0IYqrpCmt40UP-olxl3.3uDST6NCGgfDR83o) (in Portuguese) with passcode: W#XJR%4J
+[Recording 1](https://purdue-edu.zoom.us/rec/share/wz_0YKaIED2_JfXtkLQxvxr5HNnE0_MUVaYh7EAV5AmUk0IYqrpCmt40UP-olxl3.3uDST6NCGgfDR83o) (in Portuguese) with passcode: W#XJR%4J
+
+[Recording 2](https://purdue-edu.zoom.us/rec/share/WUe-1cE-E4d82PhlfflsW5jpLRv7ctV6s3oHtxkOLfZONANuBOyMCAzsPcA5AScD.WGumeZBVSnfLyOlr) (in Portuguese) with passcode: Qcq@&m8F
