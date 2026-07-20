@@ -1,0 +1,28 @@
+---
+title: "Nonplanar qubit with tunable gauge symmetry"
+collection: publications
+category: manuscripts
+permalink: /publication/2026-waffle
+excerpt: ' '
+date: 2026-07-15
+venue: 'arXiv'
+slidesurl:
+paperurl:
+# bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+citation:
+authors: 
+  - Muqing Yu
+  - Han Bi
+  - Hengli Lo
+  - Vishvesha Sridhar 
+  - GD
+  - Dmitry Green
+  - Claudio Chamon
+  - Nadya Mason
+  - Andrew P. Higginbotham
+---
+
+Circuit quantum electrodynamics embeds Josephson junction qubits within superconducting cavities, and has emerged as a leading approach to quantum computing and quantum simulation. Despite the many permutations of circuit geometry that have been explored, Josephson connectivities have so far been planar, making them effectively low-dimensional. Here we show that a non-planar qubit -- a $3\times 3$ crossbar Josephson array -- gives rise to flux-tunable $\mathbb Z_3$ combinatorial gauge symmetry (CGS), potentially enabling spin-liquid behavior when networked into a lattice. The observed excitation spectrum shows excellent agreement with predictions from a neural network trained to generate variational quantum states, demonstrating that we have predictive power over our high-dimensional quantum system. Fine-structure splittings near the CGS point are compatible with weak tunneling or symmetry breaking due to experimental imperfections. We additionally use the superconducting cavity to externally induce symmetry breaking, observing a restoration of symmetry at the CGS point where ground states differ only by a $\mathbb Z_3$ phase. This work initiates a general program exploring lattice gauge theories using the toolbox of circuit quantum electrodynamics. More broadly, introducing non-planar Josephson connectivities opens a vast space for experimental and theoretical exploration of structures in almost any imaginable dimensionality and geometry. <br>
+
+[[arXiv: 2607.14229](https://arxiv.org/abs/2607.14229)]  
+
